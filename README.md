@@ -10,10 +10,6 @@ To run the server locally, follow these steps:
 
 2. Clone this repository:
 
-    ```bash
-    git clone https://github.com/atharv-bhadange/return-journey-assignment.git
-    ```
-
 3. Navigate to the project directory:
 
     ```bash
